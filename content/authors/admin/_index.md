@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Maria Kambanaros
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Speech Pathology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Cyprus University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Language impairements in multilingual individuals, Aphasia, Transcranial Magnetic Stimulation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Aphasia
+- Bilingualism
+- TMS
 
 education:
   courses:
