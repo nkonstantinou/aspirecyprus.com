@@ -13,7 +13,7 @@ subtitle = "We are housed at the `Rehabilitation Clinic` of the Department of Re
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,4 +47,4 @@ subtitle = "We are housed at the `Rehabilitation Clinic` of the Department of Re
  css_class = ""
 +++
 
-{{< figure library="true" src="BACS_brain4_small.png" title="" numbered="true" lightbox="true" >}}
+#{{< figure library="true" src="BACS_brain4_small.png" title="" #numbered="true" lightbox="true" >}}
