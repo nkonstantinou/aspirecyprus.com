@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "## **Brain and Cognitive Science `(BaCS)` lab**"
+title = "## **`ASPIRE` Assessment of Post-Stroke Rehabilitation Reseearch**"
 subtitle = "We are housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus"
 
 [design]
@@ -29,7 +29,7 @@ subtitle = "We are housed at the `Rehabilitation Clinic` of the Department of Re
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Limassol2.jpg"  # Name of image in `static/img/`.
+  image = ""  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
