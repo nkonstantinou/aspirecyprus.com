@@ -257,7 +257,8 @@ plugins_js  = []
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 1
-  api_key = "AIzaSyBRwa5C440CrH3qn2kaw9lCxHOpQbcAcHE"
+  api_key = "<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRwa5C440CrH3qn2kaw9lCxHOpQbcAcHE&callback=initMap"
+  type="text/javascript"></script>"
   zoom = 15
 
 ############################
