@@ -90,7 +90,8 @@ address = {street = "15 Vragadinou", city = "Limassol", postcode = "3041", count
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.680565", longitude = "33.037860"}
+coordinates = {latitude = "34.678618", longitude = "33.041614"}
+
 
 # Directions for visitors to locate you.
 directions = "Old Limassol Hospital Area"
