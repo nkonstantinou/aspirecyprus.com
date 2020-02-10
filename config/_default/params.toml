@@ -256,8 +256,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  #api_key = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBRwa5C440CrH3qn2kaw9lCxHOpQbcAcHE"
+  engine = 2
+  #api_key = ""
   zoom = 15
 
 ############################
