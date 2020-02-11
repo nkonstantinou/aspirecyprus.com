@@ -46,5 +46,3 @@ subtitle = "Assessment of Post-Stroke Rehabilitation Reseearch"
  # CSS class.
  css_class = ""
 +++
-
-#{{< figure library="true" src="BACS_brain4_small.png" title="" #numbered="true" lightbox="true" >}}
