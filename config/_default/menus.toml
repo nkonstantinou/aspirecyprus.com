@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#aspire"
+  url = "#intro"
   weight = 10
 
 [[main]]
