@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Speech Pathology
+role: Associate Professor of Speech Pathology
 
 # Organizations/Affiliations
 organizations:
