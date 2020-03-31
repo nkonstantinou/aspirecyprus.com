@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "General Info"
-subtitle = "Information for the general public"
+title = "Patient Information"
+subtitle = "Information for people with aphasia (PWA) and their families"
 
 [content]
   # Page type to display. E.g. project.

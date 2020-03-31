@@ -9,14 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "General Info"
+  url = "#public_info"
+  weight = 20
+
+[[main]]
+  name = "Patient Info"
+  url = "#patient_info"
   weight = 30
 
 [[main]]
-  name = "Information for the public"
-  url = "#public_info"
-  weight = 20
+  name = "News"
+  url = "#news"
+  weight = 31
 
 [[main]]
   name = "Publications"
