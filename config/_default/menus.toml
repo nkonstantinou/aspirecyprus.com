@@ -19,14 +19,39 @@
   weight = 30
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "Portal"
+  url = "#online_portal"
   weight = 31
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#publications"
+  weight = 32 
+
+[[main]]
+  name = "Stroke Info"
+  url = "#stroke_info"
+  weight = 33
+
+[[main]]
+  name = "Handbook"
+  url = "#caregiver_handbook"
+  weight = 34
+
+[[main]]
+  name = "Image Gallery"
+  url = "#gallery"
+  weight = 35
+
+[[main]]
+  name = "PWA Testimonies"
+  url = "#pwa_testimonies"
+  weight = 36
+
+[[main]]
+  name = "Caregiver Testimonies"
+  url = "#caregiver_testimonies"
+  weight = 37
 
 [[main]]
   name = "Dissemination"

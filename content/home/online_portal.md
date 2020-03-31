@@ -1,12 +1,12 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 31  # Order that this section will appear.
 
-title = "Patient Information"
-subtitle = "Information for people with Aphasia (PWA) and their families"
+title = "Portal"
+subtitle = "ASPIRE tools for Speech-Language Therapists"
 
 [content]
   # Page type to display. E.g. project.
