@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "## **`Information for the public`**"
+title = "## **`ASPIRE`**"
 subtitle = "Assessment of Post-Stroke Rehabilitation Reseearch"
 
 [design]
