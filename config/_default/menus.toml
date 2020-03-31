@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Consortium"
   url = "#intro"
   weight = 10
 
@@ -14,54 +14,25 @@
   weight = 20
 
 [[main]]
-  name = "Patient Info"
+  name = "PWO Info"
   url = "#patient_info"
   weight = 30
 
 [[main]]
-  name = "Portal"
+  name = "Therapist Info"
   url = "#online_portal"
-  weight = 31
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 32 
+  weight = 50 
 
 [[main]]
-  name = "Stroke Info"
+  name = "News"
   url = "#stroke_info"
-  weight = 33
+  weight = 60
 
-[[main]]
-  name = "Handbook"
-  url = "#caregiver_handbook"
-  weight = 34
-
-[[main]]
-  name = "Image Gallery"
-  url = "#gallery"
-  weight = 35
-
-[[main]]
-  name = "PWA Testimonies"
-  url = "#pwa_testimonies"
-  weight = 36
-
-[[main]]
-  name = "Caregiver Testimonies"
-  url = "#caregiver_testimonies"
-  weight = 37
-
-[[main]]
-  name = "TMS Lab"
-  url = "#tms"
-  weight = 38
-
-[[main]]
-  name = "CSA"
-  url = "#tms"
-  weight = 39
 
 # [[main]]
 #   name = "Dissemination"
