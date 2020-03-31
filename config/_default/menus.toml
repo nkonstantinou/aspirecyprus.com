@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Information for the public"
-  url = "#projects"
+  url = "#public_info"
   weight = 20
 
 [[main]]
