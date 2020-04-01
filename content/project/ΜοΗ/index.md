@@ -1,11 +1,11 @@
 ---
-title: Prognosis MRI
-summary: MRI Diagnostic Center.
+title: Ministry of Health
+summary: 
 # tags: ["VSTM", "Cognitive"]
-date: "2010-01-05T00:00:00Z"
+date: "2010-01-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://prognosismri.com"
+external_link: "https://www.moh.gov.cy/moh/moh.nsf/contact_en/contact_en?OpenDocument"
 
 image:
   caption: 

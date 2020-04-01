@@ -21,9 +21,9 @@ organizations:
 bio: "neurofunctional correlates of language"
 
 interests:
-- Neurology 
-- Rehabilitation Medicine
-- Speech and Language Pathology
+#- Neurology 
+#- Rehabilitation Medicine
+#- Speech and Language Pathology
 
 # education:
 #  courses:

@@ -21,10 +21,10 @@ organizations:
 bio: My research focuses on Gastrointestinal tract physiology and, in particular, the role of specific ingested micromolecules in tumorigenesis.
 
 interests:
-- Nutrient transport
-- microRNAs
-- Unfolded Protein Response Pathway (UPR)
-- Collagen IV Nephropathies
+#- Nutrient transport
+#- microRNAs
+#- Unfolded Protein Response Pathway (UPR)
+#- Collagen IV Nephropathies
 
 education:
   courses:

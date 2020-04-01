@@ -2,7 +2,7 @@
 title: Melathron Agoniston EOKA
 summary: Rehabilitation Center
 # tags: ["VSTM", "Cognitive"]
-date: "2010-01-03T00:00:00Z"
+date: "2010-01-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.melathronagonistoneoka.com.cy"

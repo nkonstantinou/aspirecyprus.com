@@ -21,9 +21,9 @@ organizations:
 bio: "microRNAs and their role in the pathogenesis of human disease"
 
 interests:
-- microRNAs 
-- Cancer
-- Biomarkers
+#- microRNAs 
+#- Cancer
+#- Biomarkers
 
 # education:
 #  courses:

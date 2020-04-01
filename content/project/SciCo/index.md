@@ -2,7 +2,7 @@
 title: SciCo Cyprus
 summary: Dissemination partner of ASPIRE.
 # tags: ["VSTM", "Cognitive"]
-date: "2010-01-05T00:00:00Z"
+date: "2010-01-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://scico.gr"

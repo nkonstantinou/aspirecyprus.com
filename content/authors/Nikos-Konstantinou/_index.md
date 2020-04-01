@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include attention, working memory, and perception.
 
 interests:
-- Attention
-- Working Memory
-- Perception
-- Neuroimaging (MRI)
-- Brain Stimulation (TMS/tDCS)
+#- Attention
+#- Working Memory
+#- Perception
+#- Neuroimaging (MRI)
+#- Brain Stimulation (TMS/tDCS)
 
 education:
   courses:

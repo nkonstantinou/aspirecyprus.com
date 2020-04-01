@@ -2,7 +2,7 @@
 title: Cyprus Stroke Association
 summary: 
 # tags: ["VSTM", "Cognitive"]
-date: "2010-01-02T00:00:00Z"
+date: "2010-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://stroke.org.cy"
