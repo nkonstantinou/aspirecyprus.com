@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "## **`ASPIRE`**"
-subtitle = "Assessment of Post-Stroke Rehabilitation Reseearch"
+title = "## **`Cyprus University of Technology`**"
+subtitle = "Host Organization for ASPIRE"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
