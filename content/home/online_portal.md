@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 31  # Order that this section will appear.
 
-title = "Portal"
+title = "Therapist Info"
 subtitle = "ASPIRE tools for Speech-Language Therapists"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "post"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

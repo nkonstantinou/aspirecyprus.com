@@ -30,7 +30,7 @@
 
 [[main]]
   name = "News"
-  url = "#stroke_info"
+  url = "#news"
   weight = 60
 
 
