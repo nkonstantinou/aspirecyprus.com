@@ -28,4 +28,3 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: ""
 ---
-`SciCo` is a Non Profit Organisation whose aim is to communicate scientific issues to the public via innovative and entertaining means. `SciCo` was founded in 2008 and it consist of scientists, academics, educators, artists and people with an interest in everyday science. `SciCo` operates as a social enterprise.
