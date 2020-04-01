@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "People"
+  url = "#people"
+  weight = 11  
+
+[[main]]
   name = "General Info"
   url = "#public_info"
   weight = 20
@@ -41,7 +46,7 @@
  [[main]]
    name = "Contact"
    url = "#contact"
-   weight = 80
+   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

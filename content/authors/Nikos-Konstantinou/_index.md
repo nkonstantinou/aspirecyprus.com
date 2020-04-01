@@ -4,7 +4,7 @@ name: Nikos Konstantinou
 
 # Username (this should match the folder name)
 authors:
-- Collaborators
+- Nikos-Konstantinou
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ role: Assistant Professor of Cognitive Neuroscience
 # Organizations/Affiliations
 organizations:
 - name: Cyprus University of Technology
-  url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
+  url: "nkonstantinou.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include attention, working memory, and perception.

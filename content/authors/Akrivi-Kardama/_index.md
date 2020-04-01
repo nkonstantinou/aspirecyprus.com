@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Marianna Tsiakoulia
+name: Akrivi Kardama
 
 # Username (this should match the folder name)
 authors:
-- Marianna-Tsiakoulia
+- Akrivi-Kardama
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Occupational Therapist, Melathron Rehabilitation center
+role: Head of the Neurological department, Melathron Rehabilitation center
 
 # Organizations/Affiliations
 organizations:
-- name: Melathron
-  url: ""
+- name: Melathron Rehabilitation center
+  url: "http://www.melathronagonistoneoka.com.cy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -69,5 +69,4 @@ user_groups:
 - Collaborators
 
 ---
-
-Marianna Tsiakoulia is an Occupational Therapist at the Rehabilitation Center Melathron Agoniston EOKA, Limassol Cyprus. Her clinical and research interests focus on the rehabilitation of cognitive and motor deficits of acquired neurological disorders, the functional performance of stroke patients and the use of Rehabilitative Technology in acquired neurological disorders. 
+Dr Akrivi Kardama is the Head of the neurological department at Melathron Agoniston EOKA- rehabilitation centre, monitoring the rehabilitation of patients with stroke, brain trauma, dementia, Parkinson’s disease, epilepsy, hydrocephalous, and other neurological disorders. She is the Supervisor of the neurophysiological laboratory performing electroencephalography, electroneurography and electromyography.

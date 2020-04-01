@@ -1,31 +1,29 @@
 ---
 # Display name
-name: Marianna Tsiakoulia
+name: Panagiotis Loutsios
 
 # Username (this should match the folder name)
 authors:
-- Marianna-Tsiakoulia
+- Collaborators
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Occupational Therapist, Melathron Rehabilitation center
+role: Nurse
 
 # Organizations/Affiliations
 organizations:
-- name: Melathron
+- name: Melathron Rehabilitation center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
 
 interests:
-#- microRNAs 
-#- Cancer
-#- Biomarkers
+-
 
-# education:
+#education:
 #  courses:
 #  - course: PhD in Cognitive Neuroscience
 #    institution: University College London
@@ -42,18 +40,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:nikos.konstantinou@cut.ac.cy
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/n_konstantinou
+- icon: envelope
+  icon_pack: fas
+  link: #'#contact'  # For a direct email link, use "mailto:nikos.konstantinou@cut.ac.cy".
+- icon: twitter
+  icon_pack: fab
+  link: #https://twitter.com/n_konstantinou
 - icon: google-scholar
   icon_pack: ai
-  link: #https://scholar.google.com/citations?user=Hjaq-KcAAAAJ&hl=en&oi=ao
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/nkonstantinou
+  link: #https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: #https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,7 +65,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Collaborators
-
 ---
 
-Marianna Tsiakoulia is an Occupational Therapist at the Rehabilitation Center Melathron Agoniston EOKA, Limassol Cyprus. Her clinical and research interests focus on the rehabilitation of cognitive and motor deficits of acquired neurological disorders, the functional performance of stroke patients and the use of Rehabilitative Technology in acquired neurological disorders. 
+Panagiotis Loutsios is a Nurse at the Rehabilitation Centre Melathron Agoniston EOKA, Limassol, Cyprus. His main clinical and research interests lie in the care of patients with acquired neurological disorders and orthopaedic conditions. 

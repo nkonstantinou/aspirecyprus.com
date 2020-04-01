@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Can transcranial magnetic stimulation (TMS) facilitate language T recovery in chronic global aphasia post-stroke? Evidence from a case study"
-authors: [Georgiou Anastasios M., Phinikettos Ioannis, Giasafaki Chrysa, Kambanaros Maria]
+authors: [Georgiou A, Phinikettos I, Giasafaki C, Kambanaros M]
 date: 2013-07-16T17:27:22+03:00
 doi: "https://doi.org/10.1016/j.jneuroling.2020.100907"
 
