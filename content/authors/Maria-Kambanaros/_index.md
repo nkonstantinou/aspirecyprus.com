@@ -15,7 +15,7 @@ role: Associate Professor of Speech Pathology
 # Organizations/Affiliations
 organizations:
 - name: Cyprus University of Technology
-  url: ""
+  url: "Maria-Kambanaros"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "She is currently a Professor of Speech Pathology at the Cyprus University of Technology"
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Collaborators
+- CUT
 
 ---
 Dr. Kambanaros is Associate Professor of Speech Pathology. She served as inaugural Chair of the then newly created Department of Rehabilitation Sciences and as former Dean (first- ever female) of the School of Health Sciences at the Cyprus University of Technology. Currently, she directs the Centre of Research on Neurological Communication Disorders & Rehabilitation, established on her initiative. With bachelor and doctoral degrees in speech pathology from the School of Medicine at Flinders University of South Australia, she is a certified bilingual English–Greek speech–language pathologist with over 30 years of clinical experience and academic appointments in Greece and Cyprus. The process of her promotion to Professor will begin on April 2nd 2017.

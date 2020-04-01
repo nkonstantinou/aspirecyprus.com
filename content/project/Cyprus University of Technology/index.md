@@ -5,7 +5,7 @@ summary: Host Organization for ASPIRE.
 date: "2011-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.cut.ac.cy"
 
 image:
   caption: 

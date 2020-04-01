@@ -1,11 +1,11 @@
 ---
-title: SciCo Cyprus
-summary: Dissemination partner of ASPIRE.
+title: University of Nicosia
+summary: Genetics.
 # tags: ["VSTM", "Cognitive"]
 date: "2010-01-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://scico.gr"
+external_link: "https://www.unic.ac.cy"
 
 image:
   caption: 
