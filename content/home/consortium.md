@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "General Information"
-subtitle = "Information for the general public"
+title = "Consortium"
+subtitle = "ASPIRE Partners"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "post"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

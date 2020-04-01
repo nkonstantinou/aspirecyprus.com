@@ -1,8 +1,8 @@
 ---
-title: Cyprus University of Technology
-summary: Host Organization for ASPIRE.
-# tags: ["Psychiatric", "Cognitive"]
-date: "2011-01-01T00:00:00Z"
+title: SciCo Cyprus
+summary: Dissemination partner of ASPIRE.
+# tags: ["VSTM", "Cognitive"]
+date: "2010-01-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,5 +28,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: ""
 ---
-
-`Cyprus University of Technology` is the Host Organization for ASPIRE.
+`SciCo` is a Non Profit Organisation whose aim is to communicate scientific issues to the public via innovative and entertaining means. `SciCo` was founded in 2008 and it consist of scientists, academics, educators, artists and people with an interest in everyday science. `SciCo` operates as a social enterprise.
