@@ -18,10 +18,12 @@ organizations:
   url: "Tassos-Georgiou"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He is currently post-doctoral researcher at the Cyprus University of Technology"
+bio: ""
 
 interests:
-- Language impairements in multilingual individuals, Aphasia, Transcranial Magnetic Stimulation
+- Transcranial Magnetic Stimulation
+- Post-stroke aphasia rehabilitation
+- Neuroplasticity
 
 # education:
 #  courses:
@@ -42,16 +44,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-#  link: mailto:
-- icon: twitter
-  icon_pack: fab
-  link: #https://twitter.com/myrtani 
+  link: mailto:anastasios.georgiou@cut.ac.cy
+#- icon: twitter
+#  icon_pack: fab
+#  link: #https://twitter.com/myrtani 
 - icon: google-scholar
   icon_pack: ai
-  link: #
-- icon: github
-  icon_pack: fab
-  link: # https://github.com/nkonstantinou
+  link: https://scholar.google.com/citations?user=P-lFajgAAAAJ&hl=en&oi=ao 
+# - icon: github
+#  icon_pack: fab
+#  link: # https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,3 +69,4 @@ user_groups:
 - Post-Docs
 
 ---
+Anastasios Georgiou is the postdoctoral fellow of the ASPIRE project and a special scientist in Speech Pathology of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus. His research interests lie primarily in the field of Transcranial Magnetic Stimulation (TMS) for post-stroke aphasia rehabilitation, neuroplasticity in post-stroke aphasia and neuroimaging.
