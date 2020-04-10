@@ -15,7 +15,7 @@
 
 [[main]]
   name = "General Info"
-  url = "#public_info"
+  url = "#general_info"
   weight = 20
 
 [[main]]
