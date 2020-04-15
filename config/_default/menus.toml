@@ -19,7 +19,7 @@
   weight = 20
 
 [[main]]
-  name = "PWO Info"
+  name = "PWA Info"
   url = "#patient_info"
   weight = 30
 
