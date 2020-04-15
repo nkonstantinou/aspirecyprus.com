@@ -1,17 +1,17 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'ASPIRE: Assessment of Post-stroke Aphasia for Rehabilitation Research'
+#subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+#summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
-tags:
-- Academic
-categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
-featured: false
-draft: false
+#tags:
+#- Academic
+#categories:
+#- Demo
+date: "2019-07-01T00:00:00Z"
+lastmod: "2020-04-15T00:00:00Z"
+#featured: false
+#draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
 
@@ -30,75 +30,28 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The project Assessment of Post-stroke Aphasia for Rehabilitation Research (ASPIRE) involves interdisciplinary research aiming to improve the quality of life of stroke patients and address the enormous economic burden of post-stroke rehabilitation by attempting to translate scientific knowledge about the effects of non-invasive brain stimulation (NIBS) into applications for clinical practice. The project aims to obtain evidence through a pilot randomised control trial on the effectiveness of treatment protocols using NIBS on language recovery after first-time stroke. It is the goal of the study to explore the feasibility of integrating NIBS as an adjunctive therapy into typical standard rehabilitation care for communication deficits.
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+Stroke is the second leading cause of mortality with an incident of ~200/100,000 internationally and the most frequent cause of disability in Cyprus (CYPRUS WHO, 2015). International figures reveal that for approximately 30% of stroke victims the principal deficit is aphasia, the impairment or loss of language function (IS1208). Aphasia is an acquired impairment of language affecting the production or comprehension of speech and the ability to read or write. The actual number of people living with post-stroke aphasia in Cyprus is unknown but on average 1200-1400 people each year suffer a stroke and years- of-healthy-life lost due to disability (YLD) is 20-30 years (CYPRUS WHO, 2015).
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+Aphasia can result from the lesion of cortical areas involved in the motor production of speech (Broca’s aphasia). Such lesions induce an important reorganisation of speech/language-specific brain networks due to an imbalance between cortical facilitation and inhibition. Functional recovery is associated with changes in the excitability of the damaged neural structures and their connections through (i) the recruitment of perilesional regions of the left hemisphere in case of small lesions and (ii) recruitment of right areas that impede rather than aid meaningful reorganization in language networks.
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+The economic impact of aphasia goes beyond lost productivity of the individual and costs of acute care and includes costly secondary prevention and the high cost of prolonged high- dependency institutional chronic care and rehabilitation. The level of disability among stroke survivors is mainly borne by patients and their families. Aphasia for the stroke survivor is associated with reduced social activities, higher levels of depression, and lower return to work compared with stroke survivors without aphasia. If untreated, aphasia isolates the patient from their spouse, family, friends and community. This has a significant effect on the person’s and the family’s emotional and financial wellbeing and general quality of life. It also places an enormous socio-economic cost and strain on public health and rehabilitation services.
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+Earlier and more accurate rehabilitation tools may save costs in the long term, particularly when institutionalisation of aphasia patients can be reduced. Thus, it is critical to improve efficacy and cost-effectiveness of existing practice and develop evidence-based best
+practice recommendations for diagnosis and treatment of aphasia in this large, under- researched population. ASPIRE is aligned with the Smart Specialisation Strategy for Cyprus (S3Cy), specifically priority sector 6 (Health) and priority subsector 6.2.2 with an emphasis on Diagnosis and Treatment.
+The project aims to recruit around 40 adults with aphasia post-stroke.
 
-**Key features:**
+Diagnosis: Participants will be assessed using comprehensive neurocognitive and linguistic batteries, molecular markers (genetic and biomarkers), neuroimaging measures (brain volumetric, anatomical and functional connectivity measures) and quality of life questionnaires. These measures will be repeated before treatment, immediately after treatment, and at six months post-treatment.
 
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+Treatment: Traditional speech-language therapy (SLT) protocols have been shown to improve various aspects of aphasia namely functional communication as well as expressive and receptive performance[1], especially when started early in the post-stroke phase and
+continued for 5-10 hrs/week for an extended period of time [2]. However, recent evidence
+indicates that the effect of traditional SLT might be improved significantly by additional
+therapeutic strategies such as repetitive transcranial magnetic stimulation (rTMS), which act on the excitability and plasticity of cortical regions [3], thereby increasing the ability of the patient to recruit functional brain networks more efficiently.
 
-## Themes
+Participants will be randomly assigned to one of two treatment (T) groups:
+T1 will receive traditional speech-language therapy (SLT) preceded by rTMS, whereas T2 will receive SLT preceded by sham-TMS.
 
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+Longitudinal studies of aphasic participants over time allows for information to be collected on variables of interest at repeated intervals as their lives progress, and document change as it occurs. Such prospective studies establish the context for basic scientific questions of interest, promoting production of new knowledge through scientific exploration that can reveal fundamental mechanisms of biology, disease or behaviour over time.
 
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+ASPIRE is ideally suited for building a longitudinal prospective investigation on the effects of NIBS treatment on language recovery, participation and quality of life outcomes of individuals with aphasia after stroke.

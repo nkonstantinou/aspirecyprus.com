@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "PWO Information"
+title = "PWA Information"
 subtitle = "Information for People With Aphasia (PWA) and their families"
 
 [content]
