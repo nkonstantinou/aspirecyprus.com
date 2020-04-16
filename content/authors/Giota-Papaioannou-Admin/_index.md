@@ -4,7 +4,7 @@ name: Giota Papaioannou
 
 # Username (this should match the folder name)
 authors:
-- Giota-Papaioannou
+- Giota-Papaioannou-Admin
 
 # Is this the primary user of the site?
 superuser: false
