@@ -10,7 +10,7 @@ subtitle = "Information for the general public"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "test"
+  page_type = "general_information"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
