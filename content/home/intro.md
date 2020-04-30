@@ -47,4 +47,4 @@ subtitle = "Assessment of Post-Stroke Rehabilitation Research"
  css_class = ""
 +++
 
-[Project Description]({{< ref "/post/aspire/index.md" >}}) 
+[Project Description]({{< ref "/aspire/aspire/index.md" >}}) 
