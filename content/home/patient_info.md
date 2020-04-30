@@ -10,7 +10,7 @@ subtitle = "Information for People With Aphasia (PWA) and their families"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "post"
+  page_type = "patient_info"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
