@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Συμμετοχη σε ASPIRE"
+title: "ΣΥΜΜΕΤΟΧΗ ΣΕ ASPIRE"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Πληροφορίες για συμμετοχή στο εργο ASPIRE"
 
 # Summary. An optional shortened abstract.
 summary: ""
