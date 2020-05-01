@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 31  # Order that this section will appear.
@@ -10,7 +10,7 @@ subtitle = "ASPIRE tools for Speech-Language Therapists"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "post"
+  page_type = "therapist_info"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -42,7 +42,7 @@ subtitle = "ASPIRE tools for Speech-Language Therapists"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
