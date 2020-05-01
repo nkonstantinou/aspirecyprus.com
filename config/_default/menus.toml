@@ -38,11 +38,6 @@
   url = "#news"
   weight = 60
 
-# [[main]]
-#   name = "Dissemination"
-#   url = "#dissemination"
-#   weight = 60
-
  [[main]]
    name = "Contact"
    url = "#contact"
