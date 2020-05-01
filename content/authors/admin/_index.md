@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Speech Pathology
     institution: Flinders University of South Australia
-    year: XXXX
+    year: 
   - course: BSc in Speech Pathology
     institution: Flinders University of South Australia
-    year: XXXX
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
