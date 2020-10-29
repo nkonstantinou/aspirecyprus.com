@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Newsletter July 31, 2019"
+title: "Newsletter March 20, 2020"
 authors: []
-date: 2019-07-31T17:27:22+03:00
+date: 2020-03-20T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
