@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Newsletter July 31, 2019"
+title: "Newsletter March 31, 2020"
 authors: []
-date: 2019-07-31T17:27:22+03:00
+date: 2020-03-31T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20019-07-31T17:27:22+03:00
+publishDate: 20020-03-31T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
