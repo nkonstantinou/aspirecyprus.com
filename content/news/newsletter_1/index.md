@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thank you"
+title: "Newsletter July 31, 2019"
 authors: []
 date: 2019-07-31T17:27:22+03:00
 doi: ""
