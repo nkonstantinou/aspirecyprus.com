@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mini-Mental State Examination"
+title: "Mini-Mental State Examination (MMSE) Russian"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""

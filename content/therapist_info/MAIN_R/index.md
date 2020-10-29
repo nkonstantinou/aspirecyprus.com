@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multilingual Assessment Instrument For Narratives"
+title: "Multilingual Assessment Instrument For Narratives (MAIN) Russian"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""
