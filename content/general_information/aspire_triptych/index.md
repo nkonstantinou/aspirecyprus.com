@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ΑΝΑΖΗΤΟΥΝΤΑΙ ΕΘΕΛΟΝΤΕΣ"
+title: "Τρίπτυχο ASPIRE"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""
