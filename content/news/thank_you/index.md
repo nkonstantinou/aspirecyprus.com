@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ"
+title: "Thank you"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""
@@ -16,8 +16,8 @@ publishDate: 20019-06-24T17:27:22+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Assessment of Post-Stroke Aphasia for Rehabilitation Research"
-publication_short: "ASPIRE"
+publication: ""
+publication_short: ""
 
 abstract: ""
 
@@ -68,8 +68,3 @@ projects: []
 slides: ""
 ---
 
-
-Assessment of Post-Stroke Aphasia for Rehabilitation Research - ASPIRE
-- Το πρόγραμμα ASPIRE αφορά διεπιστημονική έρευνα που στοχεύει στη βελτίωση των προβλημάτων λόγου και της ποιότητας ζωής ασθενών μετά από εγκεφαλικό επεισόδιο.
-- Το πρόγραμμα αφορά 10 ημέρες θεραπείας στην Κλινική Αποκατάστασης του ΤΕΠΑΚ.
-- Καλύπτονται όλα τα έξοδα εξετάσεων και θεραπειών για όλους τους συμμετέχοντες.
