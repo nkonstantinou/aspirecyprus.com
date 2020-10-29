@@ -16,15 +16,13 @@ publishDate: 20019-06-24T17:27:22+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Assessment of Post-Stroke Aphasia for Rehabilitation Research"
+publication_short: "ASPIRE"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "- Το πρόγραμμα ASPIRE αφορά διεπιστημονική έρευνα που στοχεύει στη βελτίωση των προβλημάτων λόγου και της ποιότητας ζωής ασθενών μετά από εγκεφαλικό επεισόδιο.
-- Το πρόγραμμα αφορά 10 ημέρες θεραπείας στην Κλινική Αποκατάστασης του ΤΕΠΑΚ.
-- Καλύπτονται όλα τα έξοδα εξετάσεων και θεραπειών για όλους τους συμμετέχοντες."
+summary: ""
 
 tags: []
 categories: []
@@ -69,3 +67,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+- Το πρόγραμμα ASPIRE αφορά διεπιστημονική έρευνα που στοχεύει στη βελτίωση των προβλημάτων λόγου και της ποιότητας ζωής ασθενών μετά από εγκεφαλικό επεισόδιο.
+- Το πρόγραμμα αφορά 10 ημέρες θεραπείας στην Κλινική Αποκατάστασης του ΤΕΠΑΚ.
+- Καλύπτονται όλα τα έξοδα εξετάσεων και θεραπειών για όλους τους συμμετέχοντες.
