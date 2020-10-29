@@ -1,5 +1,5 @@
 ---
-title: test
+title: general_info
 
 # View.
 #   1 = List
