@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ASPIRE PAMPHLET"
+title: "ΑΝΑΖΗΤΟΥΝΤΑΙ ΕΘΕΛΟΝΤΕΣ"
 authors: []
 date: 2020-04-15T17:27:22+03:00
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 20019-06-24T17:27:22+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Assessment of Post-Stroke Aphasia for Rehabilitation Research"
+publication: "Αναζητούμε εθελοντές για συμμετοχή στην έρευνα"
 publication_short: "ASPIRE"
 
 abstract: ""
@@ -67,3 +67,15 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Αναζητούμε άντρες και γυναίκες με πρόβλημα επικοινωνίας μετά από εγκεφαλικό επεισόδιο, για να συμμετάσχουν σε έρευνα για την πιθανή βελτίωση της επικοινωνίας τους.
+
+Η έρευνα αυτή έχει αξιολογηθεί και έχει εγκριθεί από την Εθνική Επιτροπή Βιοηθικής Κύπρου, με αριθμό: EEBK/EΠ/2017/37
+Το Έργο EXCELLENCE/1216/0517 συγχρηματοδοτείται από το Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης και την Κυπριακή Δημοκρατία μέσω του Ιδρύματος Έρευνας και Καινοτομίας.
+
+Η συμμετοχή στην έρευνα δεν επιβαρύνει οικονομικά τους συμμετέχοντες.
+
+Αν ενδιαφέρεστε να μάθετε περισσότερα
+παρακαλώ επικοινωνήστε:  Παναγιώτα Παπαϊωάννου, ASPIRE Project Manager: (00357) 99 78 53 67 pi.papaioannou@edu.cut.ac.cy
+Αναστάσιος Γεωργίου: (00357) 96637847, anastasios.georgiou@cut.ac.cy
+Κλινική Αποκατάστασης, Τμήμα Επιστημών Αποκατάστασης Τεχνολογικό Πανεπιστήμιο Κύπρου (ΤΕΠΑΚ)
