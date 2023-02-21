@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Principles of neuroplasticity in assessment and therapy of aphasic language"
-authors: [Kambanaros M.]
-date: 2019-11-08T17:27:22+03:00
+title: "Linguistic impairment profiles in four post-stroke aphasia case studies: Exploring the role of dialectal micro-variation"
+authors: [Georgiou A., Karayiannis D., Grohmann K., Kambanaros M.]
+date: 2019-04-20T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20019-11-08T17:27:22+03:00
+publishDate: 20019-04-20T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 20019-11-08T17:27:22+03:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SELLE"
+publication: "Novi Sad"
 publication_short: ""
 
 abstract: ""
