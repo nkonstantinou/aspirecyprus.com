@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Constraint Induced Language Therapy (CILT) combined with Transcranial Magnetic Stimulation (TMS) as a treatment option for recovery of language deficits in chronic aphasia post stroke"
-authors: [Georgiou A., Karayiannis D., Papaioannou P., Kambanaros M.]
-date: 2022-09-30T17:27:22+03:00
+title: "Neuronavigated 1 Hz repetitive transcranial magnetic stimulation (rTMS) in chronic post-stroke aphasia"
+authors: [Georgiou A., Kambanaros M.]
+date: 2019-11-08T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20022-09-30T17:27:22+03:00
+publishDate: 20019-11-08T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 20022-09-30T17:27:22+03:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "8th Conference of Language Disorders in Greek"
+publication: "Science of Aphasia"
 publication_short: ""
 
 abstract: ""
