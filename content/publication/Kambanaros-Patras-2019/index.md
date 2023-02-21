@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neuronavigated 1 Hz repetitive transcranial magnetic stimulation (rTMS) in chronic post-stroke aphasia"
-authors: [Georgiou A., Kambanaros M.]
-date: 2019-09-23T17:27:22+03:00
+title: "Principles of neuroplasticity” in assessment and therapy of aphasic language"
+authors: [Kambanaros M.]
+date: 2019-11-08T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20019-09-23T17:27:22+03:00
+publishDate: 20019-11-08T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science of Aphasia"
+publication: "SELLE"
 publication_short: ""
 
 abstract: ""
