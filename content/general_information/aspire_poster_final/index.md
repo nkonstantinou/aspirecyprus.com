@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Τρίπτυχο ASPIRE"
+title: "ASPIRE Final Poster"
 authors: []
-date: 2020-04-15T17:27:22+03:00
+date: 2023-03-04T17:27:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 20019-06-24T17:27:22+03:00
+publishDate: 20023-03-04T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 20019-06-24T17:27:22+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Αναζητούμε εθελοντές για συμμετοχή στην έρευνα"
-publication_short: "ASPIRE"
+publication: "Αφασία"
+publication_short: "Αφασία"
 
 abstract: ""
 
